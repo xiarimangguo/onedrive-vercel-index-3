@@ -56,6 +56,10 @@ module.exports = {
       link: 'https://github.com/xiarimangguo',
     },
     {
+      name: 'Telegram',
+      link: 'https://t.me/xiarimangguo',
+    },
+    {
       name: 'Bilibili',
       link: 'https://space.bilibili.com/1550801420',
     },
